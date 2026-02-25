@@ -1,4 +1,5 @@
-# 🏏 IPL Data Analysis Project (2008-2017)
+# ![IndianPremierLeague on X](https://github.com/user-attachments/assets/69f00aad-7446-47bc-b38b-aca2c0e759b0)
+ IPL Data Analysis Project (2008-2017)
 
 ##  Important Note
 **This dataset is synthetic/fictional** - It is not real IPL data. The data has been estimated/assumed for learning and practice purposes only.
