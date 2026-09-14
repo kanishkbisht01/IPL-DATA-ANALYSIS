@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IPL-DATA-ANALYSIS
 IPL matches data analysis using python, sql and power bi
 =======
@@ -848,4 +847,3 @@ This project demonstrates practical knowledge of:
 * Dynamic Filtering
 * Conditional Calculations
 * Aggregations
->>>>>>> 
