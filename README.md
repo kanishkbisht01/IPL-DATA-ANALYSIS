@@ -255,6 +255,7 @@ RETURN IF(FinalMatchWinner = Team1, Team2, Team1)
 **Result:** For 2025, **Punjab Kings** became the Runner-Up.
 
 ---
+<img width="200" height="200" alt="Orange Cap" src="https://github.com/user-attachments/assets/3bff501f-644d-4610-b576-380e11fa7077" />
 
 ## 🔹 Feature 11: Orange Cap Holder
 
@@ -347,6 +348,7 @@ RETURN FullTeamName
 **Result:** For 2025, **Gujarat Titans**.
 
 ---
+<img width="200" height="200" alt="Purple Cap" src="https://github.com/user-attachments/assets/568ceffc-c326-4c93-8ca5-b3bfc1dbeb7c" />
 
 ## 🔹 Feature 15: Purple Cap Holder
 
